@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a,b as s}from"./app.a55371e5.js";const c={},_={id:"util-tool",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#util-tool","aria-hidden":"true"},"#",-1),n=s(" util Tool"),i=[r,n];function d(l,h){return t(),o("h1",_,i)}var u=e(c,[["render",d],["__file","index.html.vue"]]);export{u as default};
